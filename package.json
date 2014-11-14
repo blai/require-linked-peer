@@ -1,11 +1,11 @@
 {
   "name": "require-linked-peer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/require-linked-peer.js",
   "description": "`require` for plugins of global npm tools such as gulp/grunt.",
   "author": {
     "name": "Brian Lai",
-    "email": "brian.lai.ym@gmail.com" 
+    "email": "brian.lai.ym@gmail.com"
   },
   "license": "MIT",
   "files": [
@@ -14,9 +14,8 @@
   "keywords": [
     "require-linked-peer"
   ],
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
-    "test": "grunt" 
-  } 
+    "test": "grunt"
+  }
 }
